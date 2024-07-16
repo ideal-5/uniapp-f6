@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "f6-canvas": "/components/canvas/canvas"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="main data-v-57280228"><view class="canvas_box data-v-57280228"><f6-canvas vue-id="8dd740cc-1" width="{{width}}" height="{{height}}" pixelRatio="{{pixelRatio}}" data-event-opts="{{[['^onInit',[['onCanvasInit']]],['^onTouchEvent',[['onTouchEvent']]]]}}" bind:onInit="__e" bind:onTouchEvent="__e" class="data-v-57280228" bind:__l="__l"></f6-canvas></view></view>
