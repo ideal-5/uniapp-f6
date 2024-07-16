@@ -3,7 +3,7 @@
 ```js
 import force from "@/f6/extends/layout/forceLayout"; // 在这里引入你想要的布局算法
 
-    created() { // 引入完需要在created 中注册一下
+    created() { // 布局引入完需要在created 中注册一下
         F6.registerLayout("force", force);
     },
 ```
